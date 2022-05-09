@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cdcachero
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning cybersecurity fundamentals
-- 💞️ I’m looking to collaborate on projects involving computer security and networking
-- 📫 How to reach me ...
+- 👀 I’m interested in networking and information security
+- 🌱 I’m currently learning cybersecurity through bootcamp
+- 💞️ I'm still in the process of learning all the basics and getting my feet wet with the bootcamp and some certifications like A+, Network+, and Security+
+- 📫 I look forward to the day when I have sufficient knowledge so can I can collaborate effectively
 
 <!---
 cdcachero/cdcachero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
